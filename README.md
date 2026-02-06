@@ -20,9 +20,11 @@ Africa Bora Soccer Academy is dedicated to developing young talent while buildin
 - **Homepage** (`index.html`) - Overview of the academy and mission
 - **About Page** (`about.html`) - Organization story, values, and community impact
 - **Teams Directory** (`teams.html`) - Overview of all age group teams
-  - U12 Team (`teams/u12.html`) - Ages 10-12
-  - U15 Team (`teams/u15.html`) - Ages 13-15
-  - U18 Team (`teams/u18.html`) - Ages 16-18
+  - U8 Team (`teams/u8.html`) - Ages 6-8
+  - U11 Team (`teams/u11.html`) - Ages 9-11
+  - U13 Team (`teams/u13.html`) - Ages 12-13
+  - U15 Team (`teams/u15.html`) - Ages 14-15
+  - U17 Team (`teams/u17.html`) - Ages 16-17
 - **Coaches Directory** (`coaches.html`) - Coaching staff overview
   - Individual coach profiles in `coaches/` directory
 
