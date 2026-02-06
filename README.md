@@ -6,6 +6,15 @@ A public website showcasing our soccer academy, teams, and coaches. Built with p
 
 Africa Bora Soccer Academy is dedicated to developing young talent while building character, discipline, and teamwork. We provide opportunities for youth in our community to learn, grow, and excel both on and off the field.
 
+## Location
+
+**Africa Bora Sport Training Center**
+- Village: Kibaya
+- Cell: Rugerero
+- Sector: Rugerero
+- District: Rubavu
+- Western Province, Rwanda
+
 ## Website Structure
 
 - **Homepage** (`index.html`) - Overview of the academy and mission
